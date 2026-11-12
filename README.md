@@ -4,10 +4,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/007muskan/DSA/tree/master/0001-two-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/007muskan/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/007muskan/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/007muskan/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/007muskan/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
